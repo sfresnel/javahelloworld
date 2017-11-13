@@ -1,2 +1,2 @@
 # javahelloworld
-Docker HelloWorld Example
+Docker HelloWorld Example.
